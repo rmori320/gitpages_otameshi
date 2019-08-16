@@ -1,2 +1,1 @@
-# gitpages_otameshi
-github pages sample
+<html><body><h1>It works!</h1></body></html>
